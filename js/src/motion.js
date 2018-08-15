@@ -79,7 +79,6 @@ $(document).ready(function () {
 
   var SIDEBAR_WIDTH = '320px';
   var SIDEBAR_DISPLAY_DURATION = 200;
-  // var SIDEBAR_DISPLAY_DURATION = 100;
   var xPos, yPos;
 
   var sidebarToggleMotion = {
